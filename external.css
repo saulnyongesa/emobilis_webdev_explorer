@@ -1,0 +1,23 @@
+html{
+  background-color: darkgray;
+}
+h1{
+  margin: 0px;
+  background-color: black;
+  color: blue;
+  font-size: 30px;
+}
+h3{
+  color: green;
+  font-size: 20px;
+  font-family: monospace;
+}
+
+p{
+  color: darkgreen;
+  border: 5%;
+}
+img{
+  height: 200px;
+  width: 200px;
+}
